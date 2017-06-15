@@ -1,0 +1,23 @@
+{
+  "name": "library_app",
+  "version": "1.0.0",
+  "description": "Strozier Library Linkup",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libAppDev/app.git"
+  },
+  "author": "Steve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libAppDev/app/issues"
+  },
+  "homepage": "https://github.com/libAppDev/app#readme"
+}
